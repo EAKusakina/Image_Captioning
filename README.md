@@ -16,4 +16,4 @@ Image Captioning with inception_v3 and LSTM with attention
 Для тестирования результатов работы создан и запущен на сервере телеграм-бот [@Caption_For_Image_Bot](https://t.me/Caption_For_Image_Bot). Он получает от пользователя изображение и в ответ выдает сгенерированное нейросетью описание этого изображения на английском языке.
 В боте работает только первая (базовая) модель.
 
-Мой Телеграм, если возникнут вопросы: @Ekaterina_Kusakina
+Мой Телеграм, если возникнут вопросы: [@Ekaterina_Kusakina](https://t.me/Ekaterina_Kusakina)
